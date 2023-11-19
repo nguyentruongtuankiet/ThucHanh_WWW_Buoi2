@@ -39,5 +39,4 @@
  - Khi ấn vào mục `Xem Giỏ Hàng` bạn sẽ đến đây.
  - Ở đây bạn sẽ xem được `Tổng Tiền` của tất cả các `Sản Phẩm` mà bạn chọn.
  - Ngoài ra bạn có thể tăng giảm số lượng `Sản Phẩm` nó cũng sẽ cập nhật lại `Tổng tiền cho bạn`.
- ![image](![image](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi2/assets/104067295/5c51dd1b-e36d-4e9b-9cab-c9260d20b231)
-)
+ ![image](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi2/blob/Buoi2/Minh%20Chung/cart.png?raw=true)
