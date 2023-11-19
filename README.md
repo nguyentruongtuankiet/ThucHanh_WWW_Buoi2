@@ -42,4 +42,4 @@
  ![image](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi2/blob/Buoi2/Minh%20Chung/cart.png?raw=true)
 
 
-# Xem code tại đây --> [Link](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi2)
+## Xem code tại đây --> [Link](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi2/tree/Buoi2)
